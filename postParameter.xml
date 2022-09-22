@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<parameter name="email1" value="apple@gmail.com"> </parameter>
+<parameter name="pass1" value="apple">  </parameter>
+<parameter name="email2" value="samsung@gmail.com"> </parameter>
+<parameter name="pass2" value="samsung">  </parameter>
+<parameter name="email3" value="redmi@gmail.com"> </parameter>
+<parameter name="pass3" value="redmi">  </parameter>
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="org.gumtree.PostAnAD"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

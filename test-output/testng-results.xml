@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="63327" started-at="2022-09-22T14:10:34Z" finished-at="2022-09-22T14:11:38Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="63327" started-at="2022-09-22T14:10:34Z" finished-at="2022-09-22T14:11:38Z">
+      <class name="org.gumtree.UteTown">
+        <test-method status="PASS" signature="browserLaunch()[pri:0, instance:org.gumtree.UteTown@6a41eaa2]" name="browserLaunch" is-config="true" duration-ms="8" started-at="2022-09-22T14:10:34Z" finished-at="2022-09-22T14:10:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method status="PASS" signature="browserName()[pri:0, instance:org.gumtree.UteTown@6a41eaa2]" name="browserName" is-config="true" duration-ms="30291" started-at="2022-09-22T14:10:34Z" finished-at="2022-09-22T14:11:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserName -->
+        <test-method status="PASS" signature="reloadBrowser()[pri:0, instance:org.gumtree.UteTown@6a41eaa2]" name="reloadBrowser" is-config="true" duration-ms="0" started-at="2022-09-22T14:11:05Z" finished-at="2022-09-22T14:11:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reloadBrowser -->
+        <test-method status="PASS" signature="uteTown1()[pri:-1, instance:org.gumtree.UteTown@6a41eaa2]" name="uteTown1" duration-ms="28335" started-at="2022-09-22T14:11:05Z" finished-at="2022-09-22T14:11:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- uteTown1 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:org.gumtree.UteTown@6a41eaa2]" name="afterMethod" is-config="true" duration-ms="0" started-at="2022-09-22T14:11:33Z" finished-at="2022-09-22T14:11:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="uteTown2()[pri:2, instance:org.gumtree.UteTown@6a41eaa2]" name="uteTown2" duration-ms="4684" started-at="2022-09-22T14:11:33Z" finished-at="2022-09-22T14:11:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- uteTown2 -->
+        <test-method status="PASS" signature="reloadBrowser()[pri:0, instance:org.gumtree.UteTown@6a41eaa2]" name="reloadBrowser" is-config="true" duration-ms="0" started-at="2022-09-22T14:11:33Z" finished-at="2022-09-22T14:11:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reloadBrowser -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:org.gumtree.UteTown@6a41eaa2]" name="afterMethod" is-config="true" duration-ms="0" started-at="2022-09-22T14:11:38Z" finished-at="2022-09-22T14:11:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="browserClose()[pri:0, instance:org.gumtree.UteTown@6a41eaa2]" name="browserClose" is-config="true" duration-ms="1" started-at="2022-09-22T14:11:38Z" finished-at="2022-09-22T14:11:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+      </class> <!-- org.gumtree.UteTown -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
